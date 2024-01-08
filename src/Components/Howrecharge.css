@@ -1,0 +1,99 @@
+.how-to-recharge-container{
+    margin-top: 8rem;
+}
+
+.how-to-recharge-container h1{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 12.5rem;
+}
+
+.how-to-recharge-container .tab-content{
+    width: 100%;
+    margin-left: -17px;
+    height: 160vh;
+    border-radius: 4px;
+    color: #fff;
+    background: transparent linear-gradient(180deg, #222C85 0%, #222C85FE 8%, #11164300 100%) 0% 0% no-repeat padding-box;
+}
+.how-to-recharge-container .nav-pills .nav-link.active{
+    border-bottom: none;
+    transition: 0s;
+    background: transparent linear-gradient(90deg, #0856E0 0%, #0628951C 100%) 0% 0% no-repeat padding-box !important;
+}
+.how-to-recharge-container .nav-pills .nav-link{
+    width: 200px !important;
+    border-radius: 0px !important;
+    text-align: left !important;
+    font-size: 16px;
+    color: #ffff;
+    padding: 10px 8px;
+    border-bottom: 1px solid #fcfcfc36;
+    transition: 0s;
+}
+
+.my-akash-header{
+    padding: 10px 25px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 2px dashed rgba(255, 255, 255, 0.253);
+}
+.my-akash-header h2{
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.my-akash-img{
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+}
+.my-akash-img img{
+    width: 100%;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.steps{
+    padding: 15px 25px;
+}
+
+.login-steps span{
+    background: #1592E6 0% 0% no-repeat padding-box;
+    width: 18px;
+    height: 18px;
+    border-radius:50%;
+    text-align: center!important;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.login-steps i{
+    font-size: 10px;
+    padding: 5px;
+    display: block;
+    margin: auto;
+}
+.login-steps h5{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.login-steps p{
+    font-size: 12px;}
+.login-header{
+    background: #2B37A7 0% 0% no-repeat padding-box;
+    width: 160px;
+    height: 100px;
+    margin-top: 0;
+    border-radius: 6px;
+    margin-bottom: 1.5rem;
+}
+.login-header h2{
+  font-size: 18px;
+position: relative;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+text-align: center;
+color: #ffffffcb;
+}

@@ -1,0 +1,208 @@
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+
+.Tutorial-cards{
+  margin-left: 8rem!important;
+}
+.Tutorial-cards .slick-next {
+  position: absolute;
+  right: 30px!important;
+  color: #fff!important;
+}
+.t-card{
+  background-color: white;
+  min-height: 200px;
+  border-radius: 14px;
+  overflow: hidden;
+}
+.card-img{
+  width: 100%!important;
+  height: 157px;
+  background-color: #107dfc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.Tutorial-cards .card-img img{
+  width: 100%;
+}
+
+.card-data {
+  padding: 13px 16px 0px;
+}
+.card-data h3{
+  font-size: 18px;
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+ .card-data p{
+  font-size: 14px;
+  
+}
+
+.Tutorial-cards .slick-prev:before, .Tutorial-cards .slick-next:before {
+  font-family: 'slick';
+  font-size: 28px!important;
+  line-height: 1;
+  opacity: .75;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.Tutorial-cards .slick-slide{
+   width: 355px!important;
+  }
+  .Tutorial-cards .slick-prev {
+    right: 58px!important;
+    rotate: inherit!important;
+    border: 0!important;
+    top: 100%!important;
+    left: auto!important;
+    margin-top: 20px;
+}
+
+.Tutorial-cards .slick-next{
+  top: 100%!important;
+  margin-top: 20px;
+}
+
+.akash-headers{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-top: 3rem;
+}
+.akash-headers h1{
+  color:#fff;
+  font-size:24px;
+  margin-left:8rem;
+}
+.view-tutorials{
+color:#fff;
+display:flex;
+margin-bottom:-18px;
+margin-right:10px;
+cursor:pointer;
+
+}
+.view-tutorials p{
+  font-size:15px;
+}
+.view-tutorials i{
+  font-size:20px;
+  margin-left:-5px;
+}
+
+.download-section{
+  margin-top: 5rem;
+}
+
+.downlaod-banner{
+  width: 600px;
+  height: 700px;
+}
+.downlaod-banner img{
+  width: 100%;
+}
+
+.download-app {
+  position: relative;
+  top: 15%;
+  left: 13%;
+}
+
+.download-app h3{
+  color: #fff;
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.recharge-account{
+  margin-top: 20px;
+}
+.recharge-account i{
+  color: #fff;
+  font-size: 23px;
+}
+.recharge-account p{
+  color: #fff;
+  font-size: 18px;
+  font-family: "Roboto";
+}
+.goto-store{
+  display: flex;
+  margin-top: 5px;
+  margin-left: -8px;
+}
+
+.app-sec{
+  width: 200px;
+  height: 100px;
+margin: 0;
+cursor: pointer;
+}
+
+.app-sec img{
+  width: 100%;
+}
+/* our partner section */
+.slider-wrapper {
+  width:100%;
+  overflow: hidden;
+  padding: 25px 20px 20px;
+  white-space: wrap;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.slider-wrapper {
+  width: 79%!important;
+  overflow: visible!important;
+  white-space: wrap;
+}
+
+.fact {
+  vertical-align: top;
+  display: inline-block;
+  background-color: white;
+  margin: 0px 25px 0px 5px;
+  border-radius: 5px;
+  box-shadow:
+    0 1.6px 3.6px rgba(0, 0, 0, 0.01),
+    0 4.5px 10px rgba(0, 0, 0, 0.015),
+    0 10.9px 24.1px rgba(0, 0, 0, 0.02),
+    0 36px 80px rgba(0, 0, 0, 0.03);
+}
+.bank-card{
+  width: 100%;
+  padding: 10px;
+}
+.bank-card img{
+  width: 100%;
+}
+
+.our-partner{
+  display: flex;
+  text-align: center;
+  padding: 15px;
+}
+.our-partner h4{
+  color: #fff;
+  padding: 0 10px;
+  font-size: 22px;
+}
+.our-partner span{
+  width: 430px;
+  border-bottom: 2px dashed #c5c3c3;;
+  margin-bottom: 20px;
+  opacity: 0.5;
+}
+.partner-line{
+  border-bottom: 2px dashed #c5c3c3;;
+  display: flex;
+  margin-top: 35px;
+  opacity: 0.5;
+}
