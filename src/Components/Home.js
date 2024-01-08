@@ -6,7 +6,8 @@ import Tabs from './Tabs'
 import Tutorials from './Tutorials';
 import Download from './Download';
 import Ourpartner from './Ourpartner';
-import HowToRecharge from './HowToRecharge';
+// import HowToRecharge from './HowToRecharge';
+import QuetionsAsked from './Quetions/QuetionsAsked';
 
 const Home = () => {
   return (
@@ -184,7 +185,8 @@ const Home = () => {
       <Tutorials/>
       <Download/>
       <Ourpartner/>
-      <HowToRecharge/>
+      {/* <HowToRecharge/> */}
+      <QuetionsAsked/>
     </div>
   )
 }
